@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/30873cf71256e90b953698ba0a72668b658b6e84ea80131020b7500fe4d20d7b/download"))()
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/7a7856fa6e414dbee92118719e8f61e70fdf06235bdb8e791043ea551f0fe48d/download"))()
 
 
 
--- Api Script + lura ph why are you try to get free src😭
+-- Why Are You Trying Deobf ? these a api Script loll
